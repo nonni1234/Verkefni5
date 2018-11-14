@@ -1,1 +1,1 @@
-[Verkefni 5](/Verkefni5/verk5.html)
+[Verkefni 5](/Verkefni5/Verkefni5/verk5.html)
